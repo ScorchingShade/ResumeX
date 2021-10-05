@@ -1,4 +1,4 @@
-# Type Resume
+# ResumeX
 
 [View Site](http://www.ankush.tech/resumex)
 
