@@ -1,0 +1,44 @@
+ankush.tech
+=========
+
+Ankush Sharma
+Full Stack Web Developer (I love JavaScript and OSS)
+React / NodeJS / JavaScript / React / CSS
+
+Projects
+--------
+
+* Amazoning:                https://amazoningapp.herokuapp.com/
+* Flashy:                   https://scorchingshade.github.io/Flashy/
+* Oxicov:                   https://oxicov.herokuapp.com/
+* PinchX:                   https://scorchingshade.github.io/Pinch/
+* Valkyrie:                 https://practical-jang-a87152.netlify.app/
+* AuraChat:                 https://boiling-brook-87242.herokuapp.com/
+* Windows11 Demo:           https://windows11demo.netlify.app/
+* Codera:                   https://coderra.netlify.app/
+* NextEvents:               https://aknext.netlify.app/
+and of course...
+* Work:                     www.ankush.tech
+
+SKILLS & WORKFLOW 
+-----------
+
+* Comfortable with Git as VCS and Node workflow
+* Proficient in modern Web Technologies like React.js and Node.js
+* Able to cope with the ever changing web landscape of syntax , APIs and frameworks
+* Had worked with these languages: JavaScript, C, C++, HTML, and CSS.
+* Immense experience in making dynamic interactive websites.
+* Knowledge of Figma and Web Design.
+* Author of two books on Web Development.
+
+Contact
+-------
+
+* ScorchingShade at github dot com
+* ankushors789 at gmail dot com
+* @ankushors789 on Twitter
+* ankush.tech
+
+
+
+
