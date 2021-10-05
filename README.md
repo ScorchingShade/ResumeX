@@ -1,6 +1,6 @@
 # ResumeX
 
-[View Site](http://www.resumex.ankush.tech/)
+[View Site](https://resumex.ankush.tech/)
 
 ## Building
 
